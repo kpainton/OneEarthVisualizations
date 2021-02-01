@@ -1,0 +1,49 @@
+Year,Energy Sector,Carrier Type,Final Energy Demand,RE Share,CumSumEnergy
+2015,Transportation,Electricity,1503,0.015466743,1503
+2020,Transportation,Electricity,1855,0.018479986,1855
+2025,Transportation,Electricity,4930,0.062230906,4930
+2030,Transportation,Electricity,11034,0.184887429,11034
+2035,Transportation,Electricity,17582,0.365423115,17582
+2040,Transportation,Electricity,19380,0.4461838,19380
+2045,Transportation,Electricity,19142,0.477173787,19142
+2050,Transportation,Electricity,18839,0.499576764,18839
+2015,Transportation,On-board fuels,95682,,97185
+2020,Transportation,On-board fuels,98540,,100395
+2025,Transportation,On-board fuels,74292,,79222
+2030,Transportation,On-board fuels,48646,,59680
+2035,Transportation,On-board fuels,30531,,48113
+2040,Transportation,On-board fuels,24055,,43435
+2045,Transportation,On-board fuels,20974,,40116
+2050,Transportation,On-board fuels,18871,,37710
+2015,Industry,Electricity,30591,0.26938165,127776
+2020,Industry,Electricity,33856,0.283273603,134251
+2025,Industry,Electricity,38010,0.334866197,117232
+2030,Industry,Electricity,43105,0.402140151,102785
+2035,Industry,Electricity,47169,0.46774171,95282
+2040,Industry,Electricity,50266,0.506463595,93701
+2045,Industry,Electricity,53485,0.544302584,93601
+2050,Industry,Electricity,56877,0.57701092,94587
+2015,Industry,On-site energy,82970,,210746
+2020,Industry,On-site energy,85661,,219912
+2025,Industry,On-site energy,75498,,192730
+2030,Industry,On-site energy,64083,,166868
+2035,Industry,On-site energy,53675,,148957
+2040,Industry,On-site energy,48983,,142684
+2045,Industry,On-site energy,44778,,138379
+2050,Industry,On-site energy,41695,,136282
+2015,Buildings/Other,Electricity,40640,0.30989019,251386
+2020,Buildings/Other,Electricity,45183,0.334223577,265095
+2025,Buildings/Other,Electricity,49102,0.384401868,241832
+2030,Buildings/Other,Electricity,52520,0.447828938,219388
+2035,Buildings/Other,Electricity,57000,0.501136251,205957
+2040,Buildings/Other,Electricity,62762,0.549772725,205446
+2045,Buildings/Other,Electricity,68733,0.59594443,207112
+2050,Buildings/Other,Electricity,74438,0.6369431,210720
+2015,Buildings/Other,On-site energy,90503,,341889
+2020,Buildings/Other,On-site energy,90005,,355100
+2025,Buildings/Other,On-site energy,78634,,320466
+2030,Buildings/Other,On-site energy,64757,,284145
+2035,Buildings/Other,On-site energy,56742,,262699
+2040,Buildings/Other,On-site energy,51398,,256844
+2045,Buildings/Other,On-site energy,46601,,253713
+2050,Buildings/Other,On-site energy,42430,,253150
